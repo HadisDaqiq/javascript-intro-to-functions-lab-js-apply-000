@@ -20,5 +20,6 @@ function sayHiToGrandma(string){
   } else if(string === string.Uppercase()){
     return "YEST INDEED!";
   } else if(string === string.ToLowerCase() && string ===
-  string.toUpperCase()) return "I love you, too.";
+  string.toUpperCase()) {return "I love you, too.";
+  }
 }
